@@ -28,8 +28,8 @@ This project uses machine learning to accurately predict three key insurance met
 ```
 insurance-loss-analytics/
 │
-├── 📁 code/
-│   └── insurance_analysis.ipynb     # Full data analysis & modeling notebook
+├── insurance_analysis.ipynb     # Full data analysis & modeling notebook
+│   
 │
 └── 📁 report-and-presentation/
     ├── report.pdf          # Full project report (6-page main + appendix)
