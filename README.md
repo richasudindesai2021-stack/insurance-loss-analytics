@@ -33,7 +33,7 @@ insurance-loss-analytics/
 │
 └── 📁 report-and-presentation/
     ├── report.pdf          # Full project report (6-page main + appendix)
-    └── poster.pptx         # Poster presentation slide
+    └── presentation.pdf    # Poster presentation slide
 ```
 
 ---
